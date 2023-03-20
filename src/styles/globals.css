@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Inter", sans-serif;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+  padding-top: 1.6rem;
+}

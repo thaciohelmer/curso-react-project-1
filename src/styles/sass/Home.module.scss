@@ -1,0 +1,18 @@
+$primary-bg-color: #024059;
+$secondary-bg-color: #026873;
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(90deg, $primary-bg-color, $secondary-bg-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tool-bar {
+  margin-bottom: 1.2rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+}

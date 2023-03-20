@@ -1,0 +1,13 @@
+$primary-bg-color: #024059;
+$secondary-bg-color: #026873;
+
+.btn {
+  background-image: linear-gradient(130deg, $primary-bg-color, $secondary-bg-color);
+  color: #ffffff;
+  padding: 1rem 1.2rem;
+  border: none;
+  font-size: 2rem;
+  border-radius: 3px;
+  font-family: inherit;
+  cursor: pointer;
+}

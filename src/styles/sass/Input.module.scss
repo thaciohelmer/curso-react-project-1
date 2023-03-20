@@ -1,0 +1,22 @@
+.form-group {
+  margin-bottom: 1.8rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.input {
+  width: 100%;
+  border-radius: 3px;
+  padding: 1rem 1.2rem;
+  border: 1px solid #999999;
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
+}
+
+.input:focus {
+  background-color: #e1fdf5;
+}
